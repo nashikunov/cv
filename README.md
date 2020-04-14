@@ -1,2 +1,1 @@
-# my_cv
-My CV
+# Shikunov Nikolai CV
